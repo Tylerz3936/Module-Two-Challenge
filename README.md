@@ -2,7 +2,7 @@
 
 ## About The Project
 
-The Lernantino Portfolio is a personal web portfolio designed to showcase my work and projects. But in this case I just used pictures of pikachu and links to websites instead of my actual sections about me. 
+The Tyler Portfolio is a personal web portfolio designed to showcase my work and projects. But in this case I just used pictures of pikachu and links to websites instead of my actual sections about me. 
 
 ![Screenshot](./m2pictures/readmess.png)
 
